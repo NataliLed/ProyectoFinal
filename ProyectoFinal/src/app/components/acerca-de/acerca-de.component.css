@@ -16,17 +16,18 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
+        top: -80px;
     
     }
 }
 @media (max-width: 576px){
     #fotodeperfil{
         position: absolute;
-        width: 40%;
+        width: 35%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 31%;
-        top: 600px;
+        
     }
 }
 
